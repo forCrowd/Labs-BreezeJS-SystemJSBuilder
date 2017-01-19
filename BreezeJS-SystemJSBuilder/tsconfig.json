@@ -7,7 +7,7 @@
         "moduleResolution": "node",
         "noImplicitAny": true,
         "removeComments": false,
-        "sourceMap": true,
+        "sourceMap": false,
         "suppressImplicitAnyIndexErrors": true,
         "target": "es5"
     }

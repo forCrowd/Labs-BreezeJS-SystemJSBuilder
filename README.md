@@ -1,9 +1,9 @@
 # BreezeJS - SystemJS Builder
 Working and non-working build configs for BreezeJS and SystemJS Builder  
 
-breeze-client: 1.6.0  
-systemjs: 0.19.41  
-systemjs-builder: 0.15.34  
+* breeze-client: 1.6.2  
+* systemjs: 0.19.41  
+* systemjs-builder: 0.15.34  
 
 ### Build & Run & Test
 
@@ -14,6 +14,10 @@ systemjs-builder: 0.15.34
 * `build-breeze.debug` task is the one that uses `breeze.debug.js` and get `Multiple anonymous defines` error
 
 ### Changelog
+
+**1.0.1**
+
+* Package and some minor updates
 
 **1.0.0**
 

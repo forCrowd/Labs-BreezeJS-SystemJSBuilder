@@ -25,7 +25,6 @@
             // breeze
             "datajs": "npm:datajs/index",
             "breeze-client": "npm:breeze-client",
-            "breeze-client/breeze.dataService.odata": "./app/lib/breeze.dataService.odata", // Fixed OData adapter, see https://github.com/Breeze/breeze.js/pull/180
             "breeze-bridge-angular2": "npm:breeze-bridge-angular2/index",
         },
         packages: {
